@@ -29,7 +29,7 @@
 abhinandan = {
     "pronouns": "he/him",
     "location": "Patiala, Punjab, India",
-    "education": "B.E. ECE @ Thapar Institute of Engineering & Technology (2024–2028)",
+    "education": "B.E. ENC @ Thapar Institute of Engineering & Technology (2024–2028)",
     "current_focus": "ML/AI Engineering & Agentic Systems",
     "communities": ["GDG on Campus — Core Member"],
     "interests": ["Multi-Agent Systems", "RAG Pipelines", "LLM Engineering", "Competitive Programming"],
