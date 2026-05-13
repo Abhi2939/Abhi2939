@@ -13,11 +13,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+multi-agent+systems+with+LangGraph;Crafting+RAG+pipelines+that+actually+work;Exploring+Agentic+AI+%26+LLM+Engineering;Competing+in+hackathons+%26+solving+DSA)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar_Abhinandan-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kumar-abhinandan)
-[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1519_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumarabhinandan005-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kumarabhinandan005)
+[![Email](https://img.shields.io/badge/Email-Kumarabhinandan2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kumarabhinandan2000@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Abhinandan05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhinandan05/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumar-abhinandan&color=3B82F6&style=flat-square&label=Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhi2939&color=3B82F6&style=flat-square&label=Visitors)
 
 </div>
 
@@ -45,15 +45,50 @@ abhinandan = {
 ### 🤖 WarRoom AI
 Multi-agent strategic analysis system powered by LangGraph + Groq (LLaMA-3.3-70B). Features specialized agents — Data Analyst, PM, Marketing, Risk, and an Orchestrator — with structured JSON decision outputs (Proceed / Pause / Roll Back).
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
 ### 🔥 BlazeGuard
 Multi-agent wildfire response system ingesting real-time NASA FIRMS satellite data. Built for rapid situational awareness and automated response coordination using agentic AI.
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NASA FIRMS](https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
 ### 📚 Course Planning Assistant (CPA)
 Production-grade RAG pipeline over the UIUC CS course catalog. Achieved **96% citation coverage** and **100% prerequisite reasoning accuracy** on a 25-query eval set.
-Stack: LangChain · FAISS · LLaMA3 · nomic-embed-text · FastAPI
 
-### 🛡️ Sahayak PFMS — *Hack4Delhi National Finalist (Top out of 1,200+ teams)*
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LLaMA3](https://img.shields.io/badge/LLaMA3-0467DF?style=flat-square&logo=meta&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+### 🛡️ Sahayak PFMS
 Real-time payment fraud detection system combining Isolation Forest and Deep Autoencoders for anomaly detection.
+
+🏆 **Hack4Delhi National Finalist** — Top team out of 1,200+
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 🧠 Currently Learning
+
+```
+├── 🔗  MCP (Model Context Protocol) — Anthropic Skilljar course
+├── 🤖  Agentic AI — CampusX series (video 18/n)
+├── 📊  100 Days of ML — CampusX (~50% complete)
+└── ⚡  Karpathy's Neural Networks: Zero to Hero
+```
 
 ---
 
@@ -64,7 +99,7 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-### AI / ML / LLM
+### AI/ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -107,8 +142,30 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-abhinandan&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi2939&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi2939&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhi2939&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi2939&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Hack4Delhi National Finalist** — Top team out of 1,200+ teams (Sahayak PFMS)
+- 🎓 **GDG Core Member** — Google Developer Groups on Campus, Thapar
+- 💻 **850+ problems** solved across LeetCode, Codeforces & CodeChef
+- 🤖 Built production multi-agent systems with LangGraph + Groq at sophomore year
 
 ---
 
@@ -116,9 +173,9 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar_Abhinandan-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kumar-abhinandan)
-[![Gmail](https://img.shields.io/badge/Gmail-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Thapar Mail](https://img.shields.io/badge/Student_Email-Thapar-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kabhinandan_be24@thapar.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumarabhinandan005-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kumarabhinandan005)
+[![Gmail](https://img.shields.io/badge/Gmail-Kumarabhinandan2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kumarabhinandan2000@gmail.com)
+[![Thapar Mail](https://img.shields.io/badge/Student_Email-kabhinandan__be24@thapar.edu-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kabhinandan_be24@thapar.edu)
 
 </div>
 
@@ -128,6 +185,6 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
-<sub>Building AI that actually ships · From [kumar-abhinandan](https://github.com/kumar-abhinandan)</sub>
+<sub>Building AI that actually ships · From [Abhi2939](https://github.com/Abhi2939)</sub>
 
 </div>
