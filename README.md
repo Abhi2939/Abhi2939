@@ -81,17 +81,6 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 
 ---
 
-## 🧠 Currently Learning
-
-```
-├── 🔗  MCP (Model Context Protocol) — Anthropic Skilljar course
-├── 🤖  Agentic AI — CampusX series (video 18/n)
-├── 📊  100 Days of ML — CampusX (~50% complete)
-└── ⚡  Karpathy's Neural Networks: Zero to Hero
-```
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -99,13 +88,15 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-### AI/ML
+### AI — LLM & Agentic
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+### ML/DL
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -157,15 +148,6 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi2939&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Hack4Delhi National Finalist** — Top team out of 1,200+ teams (Sahayak PFMS)
-- 🎓 **GDG Core Member** — Google Developer Groups on Campus, Thapar
-- 💻 **850+ problems** solved across LeetCode, Codeforces & CodeChef
-- 🤖 Built production multi-agent systems with LangGraph + Groq at sophomore year
 
 ---
 
