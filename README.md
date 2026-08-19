@@ -30,10 +30,10 @@ abhinandan = {
     "pronouns": "he/him",
     "location": "Patiala, Punjab, India",
     "education": "B.E. ENC @ Thapar Institute of Engineering & Technology (2024–2028)",
-    "current_focus": "AI startups",
+    "current_focus": "Agentic AI systems, MERN stack",
     "communities": ["GDG on Campus — Core Member"],
     "interests": ["Multi-Agent Systems", "RAG Pipelines", "LLM Engineering"],
-    "actively_seeking": "ML/AI Engineering Internships @ Indian AI Startups",
+    "actively_seeking": "ML/AI Engineering Internships @ AI Startups",
     "coding_style": "Build fast, evaluate rigorously, ship clean"
 }
 ```
