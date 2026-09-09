@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### ML/AI Engineer • DSA Head @Thapar
+### ML/AI Engineer • DSA Head @GDG Thapar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+multi-agent+systems+with+LangGraph;Shipping+RAG+pipelines+%26+MCP+servers;Exploring+Agentic+AI+%26+LLM+Engineering;Competing+in+hackathons+%26+solving+DSA)](https://git.io/typing-svg)
 
