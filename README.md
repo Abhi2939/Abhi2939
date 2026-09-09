@@ -30,9 +30,9 @@ abhinandan = {
     "pronouns": "he/him",
     "location": "Patiala, Punjab, India",
     "education": "B.E. ENC @ Thapar Institute of Engineering & Technology (2024–2028)",
-    "current_focus": "Agentic AI systems, MERN stack",
+    "current_focus": "Agentic AI systems, Backend Development",
     "communities": ["GDG on Campus — DSA Head"],
-    "interests": ["Multi-Agent Systems", "RAG Pipelines", "LLM Engineering"],
+    "interests": ["Multi-Agent Systems", "RAG Pipelines", "Backend Systems", "LLM Engineering"],
     "actively_seeking": "ML/AI Engineering Internships @ AI Startups",
     "coding_style": "Build fast, evaluate rigorously, ship clean"
 }
@@ -43,12 +43,11 @@ abhinandan = {
 ## 🚀 Featured Projects
 
 ### 🛡️ ChargeGuard
-Calibrated payment dispute agent built for the Razorpay AI Buildathon 2026 (Track 2 — AI Risk Manager). A full agentic pipeline: an Ingestion Agent validates and encodes case data, a Prediction Layer runs an XGBoost classifier with Platt-scaled probability calibration plus SHAP-based explainability, and a Decision Agent branches into auto-fight / auto-drop / escalate-to-human, logging every decision to an audit trail. FastAPI backend with a Streamlit frontend; orchestrated end-to-end with LangGraph.
+Calibrated payment dispute agent built for the Razorpay AI Buildathon 2026. A full agentic pipeline: an Ingestion Agent validates and encodes case data, a Prediction Layer runs an XGBoost classifier with Platt-scaled probability calibration plus SHAP-based explainability, and a Decision Agent branches into auto-fight / auto-drop / escalate-to-human, logging every decision to an audit trail. FastAPI backend with a Streamlit frontend; orchestrated end-to-end with LangGraph.
 
 - **Calibration improvement:** Brier score 0.2322 → 0.2309, log loss 0.6564 → 0.6536
 - Threshold-tuned via precision/recall and false-positive cost analysis
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abhi2939%2FChargeGuard-181717?style=flat-square&logo=github)](https://github.com/Abhi2939/ChargeGuard)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
