@@ -42,17 +42,19 @@ abhinandan = {
 
 ## 🚀 Featured Projects
 
-### 🛡️ ChargeGuard
-Calibrated payment dispute agent built for the Razorpay AI Buildathon 2026. A full agentic pipeline: an Ingestion Agent validates and encodes case data, a Prediction Layer runs an XGBoost classifier with Platt-scaled probability calibration plus SHAP-based explainability, and a Decision Agent branches into auto-fight / auto-drop / escalate-to-human, logging every decision to an audit trail. FastAPI backend with a Streamlit frontend; orchestrated end-to-end with LangGraph.
+### 🏢 TenantRAG
+Multi-tenant RAG platform with a roadmap toward per-tenant LoRA fine-tuning, built to learn production system design. Phase 1 is live: document ingestion, retrieval-grounded answering that refuses when the context doesn't cover the question, an automated eval harness, and Dockerized deployment on Render with Postgres + pgvector (Supabase). Multi-tenancy, async queues, per-tenant LoRA, and multi-LoRA serving are the next phases.
 
-- **Calibration improvement:** Brier score 0.2322 → 0.2309, log loss 0.6564 → 0.6536
-- Threshold-tuned via precision/recall and false-positive cost analysis
+🔗 **[Live Demo](https://tenantrag.onrender.com)**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+- **Eval (20 questions, small test corpus):** hit@5 0.93 · MRR 0.70 · answer accuracy 0.93 · refusal accuracy 1.00
+- Stack: bge-small-en-v1.5 embeddings, gpt-oss-120b via Groq
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
@@ -60,7 +62,6 @@ Calibrated payment dispute agent built for the Razorpay AI Buildathon 2026. A fu
 Multi-agent disaster prediction system (cyclone + earthquake) built during a research internship at NIT Delhi's Climate Lab. Combines cascaded XGBoost classifiers, ChromaDB RAG, and SHAP explainability, evaluated with RAGAS.
 
 - **Macro F1:** 0.92 · **Faithfulness (RAGAS):** 0.797
-- Targeting an IEEE INDICON submission
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=flat-square)
@@ -122,6 +123,11 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -141,8 +147,9 @@ Real-time payment fraud detection system combining Isolation Forest and Deep Aut
 
 | Platform | Stats |
 |---|---|
-| 🟡 LeetCode | **1576** rating · 600+ problems solved |
-| 🏆 All Platforms | **950+** problems solved |
+| 🟡 LeetCode | **1600** rating · 650+ problems solved |
+| 👨‍🍳 CodeChef | **2★** |
+| 🏆 All Platforms | **1000+** problems solved |
 
 </div>
 
